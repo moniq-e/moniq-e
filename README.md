@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java
-- 🌸 But I know JavaScript and Python
+- 🌸 But I know JS/TS and Python
 - 😄 Pronouns: she/her
