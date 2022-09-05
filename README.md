@@ -2,7 +2,7 @@
 
 ```js
     type moniq-e = {
-        pronouns: ["she", "her"],
+        pronouns: ["he", "his"],
         skills: ["js", "ts", "python"],
         learning: Promise<Java>
     } 
