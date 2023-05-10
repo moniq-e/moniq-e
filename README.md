@@ -7,6 +7,8 @@
             TypeScript,
             Python,
             Java,
+            PHP,
+            SQL,
             HTML,
             CSS
         };
