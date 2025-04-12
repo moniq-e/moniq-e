@@ -6,6 +6,7 @@
             TypeScript,
             Python,
             Java,
+            C,
             GML,
             PHP,
             HTML,
